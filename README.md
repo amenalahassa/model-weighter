@@ -7,14 +7,6 @@
 - Estimate RAM usage during training and inference.
 - Estimate GPU memory usage during training and inference (if a GPU is available).
 
-## Installation
-
-To install `model-weighter`, clone the repository and install the dependencies:
-
-```bash
-pip install model-weighter
-``` 
-
 ## Usage
 
 ```python
